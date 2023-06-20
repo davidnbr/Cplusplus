@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-//Ejemplo cadena de caracteres de bajo nivel
+//Ejemplo cadena de caracteres de alto nivel
 int main()
 {
     //Cadena de caracteres ejemplo: nombreDeUsuario
